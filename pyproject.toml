@@ -13,6 +13,7 @@ jupyter = "^1.0.0"
 scikit-learn = "^1.5.0"
 tensorflow = "^2.16.1"
 matplotlib = "^3.9.0"
+keras-tuner = "^1.4.7"
 
 
 [build-system]
