@@ -2880,6 +2880,16 @@ objc = ["pyobjc-framework-Cocoa"]
 win32 = ["pywin32"]
 
 [[package]]
+name = "sequential"
+version = "1.0.0"
+description = "Sequential wrappers for python functions."
+optional = false
+python-versions = "*"
+files = [
+    {file = "sequential-1.0.0.tar.gz", hash = "sha256:be93d69130c7e8e2ea6e5018d436062dd394b7562636bfdcea99d6aa96dd24e9"},
+]
+
+[[package]]
 name = "setuptools"
 version = "70.0.0"
 description = "Easily download, build, install, upgrade, and uninstall Python packages"
@@ -3363,4 +3373,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "8d0384212b020499c64681765cb626662df480e42ad8d1b62ef46c7586fd8c61"
+content-hash = "aa8c42a8b3672336c3cd94c3d1c89d709c95b6e346d3f8808e476caf02b220c5"
