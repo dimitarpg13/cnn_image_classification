@@ -2,7 +2,7 @@
 name = "cnn-image-classification"
 version = "0.1.0"
 description = "cnn examples for image classification"
-authors = ["Dimitar Gueorguiev <dimitar_pg13@hotmail.com>"]
+authors = ["Dimitar Gueorguiev"]
 license = "MIT license"
 readme = "README.md"
 
